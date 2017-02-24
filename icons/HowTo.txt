@@ -1,0 +1,6 @@
+- Icon reinholen
+- mit grau 0x808080 unterlegen (für Menüleistenicons oben 0x424242/unten 0x080808)
+- zusammenführen
+- mit Zauberstab außen wegschneiden
+- Tranparente Farbe ersetzen (Paint.NET: 0xFFFFFF mit Toleranz 10% ersetzen durch oxF8F8F8, denn weiß ist transparent.)
+  (When recoloring with the left mouse button, the primary color signifies the replacement color, and the secondary color represents the color to replace.)
